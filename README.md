@@ -1,4 +1,9 @@
-# Hi there 👋 I'm Mohini Mehta
+# Hi 👋 I'm Mohini Mehta
+
+![Product Owner](https://img.shields.io/badge/Product%20Owner-Enterprise%20SaaS-blue)
+![Business Analyst](https://img.shields.io/badge/Business%20Analyst-Agile-success)
+![AI](https://img.shields.io/badge/AI-Generative%20AI-orange)
+![SAFe](https://img.shields.io/badge/SAFe-Certified-red)
 
 ## AI-Enabled Product Owner | Senior Business Analyst
 
